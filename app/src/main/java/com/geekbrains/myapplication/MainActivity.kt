@@ -13,8 +13,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         button.setOnClickListener {
-            val counterTxt : String = textView.text.toString()
-            var counterInt : Int = counterTxt.toInt()
+            val counterTxt = textView.text.toString()
+            var counterInt = counterTxt.toInt()
             counterInt++
             textView.text = counterInt.toString()
         }
