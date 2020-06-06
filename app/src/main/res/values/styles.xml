@@ -8,4 +8,17 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="StyleTitleText">
+        <item name="android:textSize">@dimen/title_textSize</item>
+        <item name="android:textColor">@color/colorTitle</item>
+        <item name="android:fontFamily">sans-serif-black</item>
+    </style>
+    <style name="StyleInfoText">
+        <item name="android:textSize">@dimen/info_textSize</item>
+        <item name="android:textColor">@color/colorInfo</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <dimen name="title_textSize">18sp</dimen>
+    <dimen name="info_textSize">16sp</dimen>
 </resources>

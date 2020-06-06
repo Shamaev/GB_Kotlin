@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">NoteList_v01</string>
+    <string name="title">Title</string>
+    <string name="here_will_be_the_text_of_the_note">Here will be the text of the note</string>
 </resources>

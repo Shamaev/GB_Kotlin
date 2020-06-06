@@ -1,4 +1,4 @@
-package com.geekbrains.myapplication
+package com.geekbrains.notelist_v01
 
 import org.junit.Test
 
