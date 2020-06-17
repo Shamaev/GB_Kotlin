@@ -1,4 +1,4 @@
-package com.geekbrains.myapplication
+package ru.geekbrains.gb_kotlin
 
 import org.junit.Test
 
